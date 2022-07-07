@@ -1,2 +1,3 @@
 # Proyecto-Informatica
-Crearemos una aplicación móvil que nos permite con una mayor interacción visualizar las distintas características de una malla curricular, esto con objetivo de incentivar a los jóvenes a investigar sobre sus intereses académicos.
+Crearemos una aplicación movil que permite al docente en cualquier ambito academico llevar una lista de asistencia
+tanto de manera fisica como a nivel servidor de sus clases.
